@@ -7,7 +7,7 @@ Notebook and example data with methods to create features out of different modal
 3. Text
 4. Images
 
-[ipython notebook](feature_generation_example.ipynb)
+[Feature generation notebook](feature_generation_example.ipynb)
 
 These features can be used to train classifiers. The classifier examples will  be added soon (2 May 2019)
 
