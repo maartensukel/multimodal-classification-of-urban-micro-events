@@ -1,5 +1,10 @@
 # multimodal-classification-of-urban-micro-events
 
-Placeholder for sample code for the creation of a multi modal classifier of urban micro events.
+Notebook and example data with methods to create features out of different modalities of data:
 
-Code added soon. (30 april 2019)
+1. Coordinates
+2. Time
+3. Text
+4. Images
+
+These features can be used to train classifiers. The classifier examples to be added later(2 May 2019)
