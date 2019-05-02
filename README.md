@@ -1,4 +1,4 @@
-# multimodal-classification-of-urban-micro-events
+# Multimodal classification
 
 Notebook and example data with methods to create features out of different modalities of data:
 
